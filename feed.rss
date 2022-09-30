@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>bb.crimsontome.com</title><link>https://bb.crimsontome.com/index.html</link>
 <description>A lightweight blog built entirely in Bash</description><language>en</language>
-<lastBuildDate>Fri, 30 Sep 2022 02:43:38 +0100</lastBuildDate>
-<pubDate>Fri, 30 Sep 2022 02:43:38 +0100</pubDate>
+<lastBuildDate>Fri, 30 Sep 2022 02:09:36 +0000</lastBuildDate>
+<pubDate>Fri, 30 Sep 2022 02:09:36 +0000</pubDate>
 <atom:link href="https://bb.crimsontome.com/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 Hello World!
@@ -12,9 +12,10 @@ Hello World!
 <p>This is just html</p>
 
 <p>Tags: <a href='tag_woah-a-tag.html'>woah-a-tag</a></p>
+
 <!-- text end -->
 ]]></description><link>https://bb.crimsontome.com/hello-world.html</link>
 <guid>https://bb.crimsontome.com/./hello-world.html</guid>
 <dc:creator>CrimsonTome</dc:creator>
-<pubDate>Fri, 30 Sep 2022 02:41:38 +0100</pubDate></item>
+<pubDate>Fri, 30 Sep 2022 02:41:38 +0000</pubDate></item>
 </channel></rss>
