@@ -38,6 +38,8 @@ For more information please open ./bb.sh in a code editor and read the header an
 
 ```
 
+- run `./bb.sh rebuild after making a post or change`
+
 ### Docker
 
 `sudo docker build -t bb .`
